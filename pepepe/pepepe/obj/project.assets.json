@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Redes-04\\Desktop\\Nueva carpeta\\ProyectoPepe\\pepepe\\pepepe\\pepepe.csproj",
+      "projectUniqueName": "C:\\Users\\Redes-04\\Desktop\\ProyectoPepe\\pepepe\\pepepe\\pepepe.csproj",
       "projectName": "pepepe",
-      "projectPath": "C:\\Users\\Redes-04\\Desktop\\Nueva carpeta\\ProyectoPepe\\pepepe\\pepepe\\pepepe.csproj",
+      "projectPath": "C:\\Users\\Redes-04\\Desktop\\ProyectoPepe\\pepepe\\pepepe\\pepepe.csproj",
       "packagesPath": "C:\\Users\\Redes-04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Redes-04\\Desktop\\Nueva carpeta\\ProyectoPepe\\pepepe\\pepepe\\obj\\",
+      "outputPath": "C:\\Users\\Redes-04\\Desktop\\ProyectoPepe\\pepepe\\pepepe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
